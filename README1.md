@@ -56,12 +56,6 @@ Splash Screen ➝ Login/Register ➝ Home Screen
 
 ---
 
-## 🖼️ Screenshots
-
-> Add your app screenshots here (optional)
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -98,7 +92,7 @@ git clone https://github.com/yourusername/car-selling-app.git
 
 ## 👨‍💻 Author
 
-**Your Name** – [Your GitHub Profile](https://github.com/yourusername)
+**Your Name** – [Your GitHub Profile](https://github.com/Anique-1)
 
 ---
 
